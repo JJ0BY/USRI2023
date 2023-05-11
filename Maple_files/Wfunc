@@ -1,0 +1,2 @@
+W := proc (x) return LambertW(x); end proc;
+A := proc (x) return LambertW(x); end proc;
